@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attempt.Minio", "Attempt.Minio.csproj", "{921DE74A-0711-4906-9BD1-63455A2A38B2}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{6507621B-1056-4E9E-A3C7-D14039C32010}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{921DE74A-0711-4906-9BD1-63455A2A38B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{921DE74A-0711-4906-9BD1-63455A2A38B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{921DE74A-0711-4906-9BD1-63455A2A38B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{921DE74A-0711-4906-9BD1-63455A2A38B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6507621B-1056-4E9E-A3C7-D14039C32010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6507621B-1056-4E9E-A3C7-D14039C32010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6507621B-1056-4E9E-A3C7-D14039C32010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6507621B-1056-4E9E-A3C7-D14039C32010}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05EC522A-3250-4800-AC0B-5A7BA4041BF3}
+	EndGlobalSection
+EndGlobal
