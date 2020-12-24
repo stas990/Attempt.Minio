@@ -1,0 +1,4 @@
+[submodule "aspnet"]
+	path = aspnet
+	url = https://github.com/stas990/aspnet.patterns.git
+	branch = main
